@@ -27,11 +27,5 @@ def now_serving(deli)
   end
 end
 
-arr = ["cernan", "ashley", "bob"]
-
-arr.each.with_index do |name, i|
-  puts "#{i + 1}. #{name} "
-  
-end
 
 
