@@ -1,5 +1,5 @@
 # Write your code here.
-katz_deli = []
+
 
 def line(deli)
   if deli.empty?
@@ -27,4 +27,5 @@ def now_serving(deli)
   end
 end
 
+katz_deli = []
 take_a_number(katz_deli, "Bob")
