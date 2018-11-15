@@ -30,7 +30,7 @@ end
 arr = ["cernan", "ashley", "bob"]
 
 arr.each.with_index do |name, i|
-  puts "#{i}. #{name} "
+  puts "#{i + 1}. #{name} "
   
 end
 
