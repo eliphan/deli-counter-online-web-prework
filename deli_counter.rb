@@ -26,3 +26,5 @@ def now_serving(deli)
     deli.shift
   end
 end
+
+take_a_number(katz_deli, "Bob")
