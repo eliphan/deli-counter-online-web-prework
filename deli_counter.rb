@@ -29,8 +29,8 @@ end
 
 arr = ["cernan", "ashley", "bob"]
 
-arr.each do |name|
-  puts "Name #{name}"
+arr.each.with_index do |name, i|
+  puts "Name #{name} at index #{i}"
   
 end
 
