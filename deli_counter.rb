@@ -28,5 +28,6 @@ def now_serving(deli)
 end
 
 katz_deli = []
+now_serving(katz_deli)
 take_a_number(katz_deli, "Bob")
 take_a_number(katz_deli, "Susan")
