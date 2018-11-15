@@ -32,6 +32,6 @@ take_a_number(katz_deli, "Bob")
 now_serving(katz_deli)
 take_a_number(katz_deli, "Susan")
 
-#There is nobody waiting to be served!
 #Welcome Bob, you are number 1 in line
+#Currently serving 1
 #Welcome Susan, you are number 2 in line. 
